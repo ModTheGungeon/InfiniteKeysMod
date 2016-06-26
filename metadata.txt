@@ -1,0 +1,18 @@
+# Lines beginning with # are comment lines.
+
+# No metadata.txt in your .zip? No problem!
+# ETGMod will set Name to the .zip name, Version to 0.0 and DLL to mod.dll
+
+Name: Infinite Keys
+Version: 1.0
+
+# The DLL path must be the full CASE-SENSITIVE path of the DLL in the .zip.
+# For example, if it's just ExampleMod.dll, it's ExampleMod.dll
+# If it's in the directory ADir, it's ADir/ExampleMod.dll (or ADir\ExampleMod.dll, we don't care).
+# If, for some reason, you screw up your DLL path, don't worry - ETGMod will pick the first one.
+
+DLL: InfKeysMod.dll
+
+# All your dependencies (APIs / backends you're using).
+
+# Nothin'

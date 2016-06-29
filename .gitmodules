@@ -1,0 +1,3 @@
+[submodule "ETGMod.Base"]
+	path = ETGMod.Base
+	url = https://github.com/ModTheGungeon/ETGMod.git
